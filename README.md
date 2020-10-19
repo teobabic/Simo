@@ -1,3 +1,2 @@
-# simo
+# Simo
 
-The project will be uploaded soon.
