@@ -36,7 +36,7 @@ The Simo app tracks all following user motions simultaneously, in real-time and 
 
 *Eye-Gaze tracking*.
 
-<img src="https://media.giphy.com/media/SCgauCV1JkLITU5kMW/giphy.gif" width="400">
+<img src="https://media.giphy.com/media/b6niaXupgi7VUK98Jl/giphy.gif" width="400">
 
 *Body tracking*.
 
