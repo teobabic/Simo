@@ -37,7 +37,7 @@
     },
     "com.unity.xr.arkit": {
       "version": "4.0.9",
-      "depth": 1,
+      "depth": 0,
       "source": "registry",
       "dependencies": {
         "com.unity.xr.arsubsystems": "4.0.9",
@@ -65,7 +65,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.xr.legacyinputhelpers": {
-      "version": "2.1.4",
+      "version": "2.1.6",
       "depth": 1,
       "source": "registry",
       "dependencies": {},
