@@ -65,4 +65,4 @@ This work is based on a publication [**"Simo: Interactions with Distant Displays
 
 ------
 
-Copyright (C) 2020 Teo Babic
+Copyright (C) 2023 Teo Babic
