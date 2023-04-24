@@ -13,7 +13,7 @@ EditorBuildSettings:
       type: 2}
     com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: 548641ba2e111fb4bb0267a9742ca02c,
       type: 2}
-    com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: 366659d1ca6fc49dcbca553856f9cd5e,
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: ee4745062927f439dbba1ac248552030,
       type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 39e42dec0e4dc489ab6f6077e5963155,
       type: 2}

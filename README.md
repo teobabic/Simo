@@ -1,6 +1,6 @@
 # Simo
 
-Simo, a novel approach, that transforms an off-the-shelf smartphone into a user motion tracking device and controller. Both the front and back cameras of the smartphone are used simultaneously to track the user’s hand, head, eye-gaze and body movements in real-world space and scale.
+Simo is the first approach that transforms an single off-the-shelf smartphone into a user motion tracking device and controller. Both the front and back cameras of the smartphone are used simultaneously to track the user’s hand, head, eye-gaze and body movements in real-world space and scale.
 
 Simo is an ARKit iOS application made in Unity.
 
@@ -52,7 +52,7 @@ The Simo app tracks all following user motions simultaneously, in real-time and 
 * Place an AR Anchor on the floor of your room and use the *Change camera* and *Change view* buttons to toggle between different tracking views.
 
 ## Compatibility
-The project was made and tested in Unity 2020.2.0f1, Xcode 12.3, iPhone XS and iOS 14.2
+The project was last tested and run in Unity 2021.3+, Xcode 14.3, iPhone 13 Pro and iOS 16.4
 
 System requirements:
 * iPhone with ARKit and FaceID capabilities
